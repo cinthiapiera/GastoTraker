@@ -1,0 +1,4 @@
+CREATE TABLE CategoriaGasto (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombreCategoria VARCHAR(255) NOT NULL
+);

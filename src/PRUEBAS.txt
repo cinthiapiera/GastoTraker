@@ -1,0 +1,144 @@
+
+Bienvenido a GastoTracker
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 1
+Ingrese el nombre de la categoría del gasto: cine
+Ingrese el monto del gasto: 17.42
+Ingrese la fecha del gasto (dd/MM/yyyy): 09/8/2023
+Gasto agregado
+¿Desea agregar otro gasto? (Si/No): si
+Ingrese el nombre de la categoría del gasto: cine
+Ingrese el monto del gasto: 18.00
+Ingrese la fecha del gasto (dd/MM/yyyy): 10/08/2023
+Gasto agregado
+¿Desea agregar otro gasto? (Si/No): no
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 2
+Lista de Gastos:
+---------------------------------------------
+ID   Monto          Fecha          Categoría
+---------------------------------------------
+2    20.00          03/09/2023     Transporte
+3    35.50          04/03/2023     Entretenimiento
+5    140.00         02/08/2023     Educación
+6    26.00          06/09/2023     Alimentos
+7    29.90          04/09/2023     celular
+9    120.25         06/09/2023     ternos
+10   35.50          07/09/2023     Comida
+11   25.00          02/09/2023     Alimentos
+12   20.25          07/08/2023     natacion
+13   150.00         08/09/2023     fiesta
+14   17.42          09/08/2023     cine
+15   18.00          10/08/2023     cine
+---------------------------------------------
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 3
+Ingrese el ID del gasto que desea actualizar: 14
+Ingrese el nuevo monto del gasto: 18.00
+Ingrese la nueva fecha del gasto (dd/MM/yyyy): 10/08/2023
+Gasto actualizado con éxito.
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 2
+Lista de Gastos:
+---------------------------------------------
+ID   Monto          Fecha          Categoría
+---------------------------------------------
+2    20.00          03/09/2023     Transporte
+3    35.50          04/03/2023     Entretenimiento
+5    140.00         02/08/2023     Educación
+6    26.00          06/09/2023     Alimentos
+7    29.90          04/09/2023     celular
+9    120.25         06/09/2023     ternos
+10   35.50          07/09/2023     Comida
+11   25.00          02/09/2023     Alimentos
+12   20.25          07/08/2023     natacion
+13   150.00         08/09/2023     fiesta
+14   18.00          10/08/2023     cine
+15   18.00          10/08/2023     cine
+---------------------------------------------
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 4
+Ingrese el ID del gasto que desea eliminar: 14
+Gasto eliminado con éxito.
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 2
+Lista de Gastos:
+---------------------------------------------
+ID   Monto          Fecha          Categoría
+---------------------------------------------
+2    20.00          03/09/2023     Transporte
+3    35.50          04/03/2023     Entretenimiento
+5    140.00         02/08/2023     Educación
+6    26.00          06/09/2023     Alimentos
+7    29.90          04/09/2023     celular
+9    120.25         06/09/2023     ternos
+10   35.50          07/09/2023     Comida
+11   25.00          02/09/2023     Alimentos
+12   20.25          07/08/2023     natacion
+13   150.00         08/09/2023     fiesta
+15   18.00          10/08/2023     cine
+---------------------------------------------
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 5
+-----------------------------
+Total de gastos: S/.620.4
+-----------------------------
+
+Menu de servicios:
+1. Agregar gasto
+2. Lista de gastos
+3. Actualizar gasto
+4. Eliminar gasto
+5. Total de gastos
+0. Salir
+Ingrese la opción deseada: 0
+
+Process finished with exit code 0
